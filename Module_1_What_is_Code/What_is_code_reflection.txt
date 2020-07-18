@@ -1,0 +1,50 @@
+﻿Zipporah Najar
+TKH Vestibule Module 1 Assignment
+
+
+
+
+
+
+In your own words, what is a computer really doing whenever you type a letter on a keyboard? (150 words max)
+When a letter key on the keyboard is clicked the computer refers to an image of the letter embedded in the database, and uses this images data of the font and size to portray it on the screen. 
+
+
+In your own words, how do computers use input and output to create experiences? (250 words max)
+Computers receive data through input devices from keyboards, mics, the mouse, or a scanner then by a processor processes the information and outputs graphics on the screen, voice/music through the speaker or prints through the printer. 
+
+
+Explain why software products are essentially “infinitely reproducible nothings.” (150 words max)
+Software products are “infinitely reproducible nothings” because it’s not tangible. Software companies can sell, resell, remake, and resell software forever. On the other hand hardware products have to create physica products and deal with a load of problems.
+
+
+Explain in your own words how code becomes software. (150 words max)
+Code becomes software when it can be understood and used by people other than the programmer. The code needs to have an algorithm and a plan that can be carried out by logic gates, then it becomes a software. 
+
+
+Explain “algorithms” in your own words. (150 words max)
+An algorithm is a technical term for a solution. In the world of code algorithms are detailed specific instructions for solving  problems. 
+
+
+Explain the DRY principle. (100 words max)
+DRY, which stands for Don’t Repeat Yourself, is a principle known in the coding world as a reminder for programmers to do just that, not repeat themselves. The principle is, programmers should not have repetitive code, things should only be implemented once. 
+
+
+In your own words, what is object oriented programming? (100 words max)
+Object Oriented Programming is a way to organize the software structure around data/objects instead of functions and logic. OOP’s principles are Encapsulation, Abstraction, Inheritance, and Polymorphism.  
+
+
+In your own words explain data and how it relates to code. (100 Words max)
+Code as data and data as code. The two go hand in hand, coding brings the data in and accessible. 
+
+
+What is a framework? (150 words max)
+A framework is a software that was developed by a programmer and can be used by others. Using a framework allows programmers to work on the high priority areas of the application, instead of recreating software someone already created. 
+
+
+What is debugging? (150 words max)
+Debugging is a process where the programmer detects errors or bugs in the code by isolating the problem and finding a solution. 
+
+
+Now, with more of an understanding of what code is, why do you want to learn how to code? (500 words max)
+Throughout my childhood I went through public school that didn’t prepare me for college or anything I’d do with my life after high school. I was first exposed to coding through a free Girls Who Code summer program; I entered a new world with many languages and I was intrigued. Software Development was a career I had never considered, let alone knew it even existed. I want to learn to code to gain knowledge and experience something new; something I know a lot of my peers and even many ancestors never thought was possible.
