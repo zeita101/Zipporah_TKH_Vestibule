@@ -1,0 +1,18 @@
+﻿What is Git and how is it different than GitHub?
+Git is a version control system that tracks changes made to files. Used for source code management. Git is also downloaded on to a system and can be used offline, when not accessing GitHub. 
+
+
+GitHub is a web based Git repository. Providing a graphical interface. GitHub is also hosted on the cloud and requires wifi to access. 
+
+
+Git can be used without GitHub but GitHub cannot be used without Git. 
+
+
+Why use the terminal?
+Terminal also known as command line is very useful when accessing much more than the graphical interface allows and having greater control. Although it is quite difficult when starting to use Terminal the extent of things you can get done in a short time is worth it. 
+ 
+Explain 3 benefits version control in your own words?
+3 benefits of version control:
+* Version control software allows contributors to work together and compare work 
+* Possibility to restore previous versions of application
+* Easy way to keep track of application progress and versions
